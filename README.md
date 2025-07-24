@@ -1,4 +1,4 @@
-# ChaYe Kube
+# ChaYe Kube (Work in Progress)
 
 ### Purpose
 A project aimed at creating a small home Kubernetes cluster using Raspberry Pi 5s, and plan to run using
